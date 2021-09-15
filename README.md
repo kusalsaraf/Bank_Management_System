@@ -1,5 +1,5 @@
 # Bank_Management_System
-The application is developed by me for maintaining a person's account in a Bank. I have developed this application using JAVA (using wings, JDBC, oracle database). The project cover JAVA advanced concepts.
+The application is developed by me for maintaining a person's account in a Bank. I have developed this application using JAVA (Swings, JDBC, Oracle database). The project cover JAVA advanced concepts.
 Project Requirement: -
 1) IDE use NetBeans
 2) Oracle 18c database
